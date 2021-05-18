@@ -28,10 +28,17 @@
 + **پایگاه داده:فایربیس گوگل
 + ** :نرم افزار های مورد نیاز 
 +    
-     1.android studio
-     2.Android SDK
-     3.JDK( java Devalopment Kit )
-     4.Android AVD 
+          1.android studio
+
+
+          2.Android SDK
+
+
+          3.JDK( java Devalopment Kit )
+
+
+          4.Android AVD 
+
 
 
 
