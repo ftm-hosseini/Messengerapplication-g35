@@ -67,7 +67,7 @@
 
 ### نیاز سنجی و سناریو پروژه:
 
-+ سناریو های  پروژه (Project Scenario) ‍‍`لینک`
++ سناریو های  پروژه (Project Scenario) ‍‍`https://github.com/ftm-hosseini/Messenger-application-for-software-lab-g35/blob/0e2dfb80fdd74c768d9dbd08d16dffba995390cd/scenario.pdf`
 
 + نیاز سنجی پروژه (Project Needs assessment)  `لینک`
 
